@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel 5.5
+                    <a href="{{action('ProductController@index')}}" class="btn btn-warning">CRUD</a>
                 </div>
 
                 <div class="links">
